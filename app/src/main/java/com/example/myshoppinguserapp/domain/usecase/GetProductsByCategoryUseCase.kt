@@ -1,0 +1,10 @@
+package com.example.myshoppinguserapp.domain.usecase
+
+import com.example.myshoppinguserapp.domain.repo.Repo
+import javax.inject.Inject
+
+class GetProductsByCategoryUseCase @Inject constructor(
+    private val repo: Repo
+) {
+    operator fun invoke(category: String) = repo.getProductsByCategory(category)
+}
