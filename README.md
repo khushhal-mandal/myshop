@@ -16,6 +16,7 @@ An end-to-end user-side e-commerce Android application built with modern Android
 - ✅ **Place Orders** and View Order History
 - 🔄 **Update Profile Info** and Profile Picture
 - 🔔 **Firebase Cloud Messaging (FCM)** for Push Notifications
+- 🔄 **Custom ResultState wrapper for handling external data calls
 
 ---
 
