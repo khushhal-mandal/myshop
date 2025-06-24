@@ -64,10 +64,10 @@ cd myshop
 
 2. Open in Android Studio
 Android Studio will sync dependencies from your build.gradle files.
-3. Add Required Files
-🔑 Add your own Firebase google-services.json to /app/
+3. Add Required Files<br>
+🔑 Add your own Firebase google-services.json to /app/<br>
 🔐 Add razorpay key in MainActivity.kt and AndroidManifest.xml
-4. Run the app
+5. Run the app<br>
 Use a physical device or emulator to run.
 
 Made with ❤️ by Khushhal Mandal
