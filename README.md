@@ -57,8 +57,7 @@ An end-to-end user-side e-commerce Android application built with modern Android
 
 ## 🛠️ Getting Started
 
-### 1. Clone this repo
-
+1. Clone this repo
 
 git clone https://github.com/khushhal-mandal/myshop.git
 cd myshop
@@ -72,4 +71,3 @@ Android Studio will sync dependencies from your build.gradle files.
 Use a physical device or emulator to run.
 
 Made with ❤️ by Khushhal Mandal
-```bash
