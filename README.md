@@ -71,3 +71,5 @@ Android Studio will sync dependencies from your build.gradle files.
 Use a physical device or emulator to run.
 
 Made with ❤️ by Khushhal Mandal
+
+MyShopAdmin App -> https://github.com/khushhal-mandal/myshopadmin.git
