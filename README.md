@@ -30,7 +30,7 @@ An end-to-end user-side e-commerce Android application built with modern Android
 | Dependency Injection   | **Dagger Hilt**                                |
 | Async Handling         | **Kotlin Coroutines**, **Flow**, **callbackFlow** |
 | Navigation             | **Jetpack Navigation Compose**                 |
-| Image Upload & Fetch   | **Firebase Storage**                           |
+| Image Upload & Fetch   | **Firebase Storage + Coil**                    |
 | Database               | **Firebase Firestore**                         |
 | Authentication         | **Firebase Auth**                              |
 | Push Notifications     | **Firebase Cloud Messaging (FCM)**             |
